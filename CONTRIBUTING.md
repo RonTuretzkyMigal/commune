@@ -1,4 +1,4 @@
-#Contribution Guide
+# Contribution Guide
 
 ## Getting Started 
 
@@ -67,3 +67,12 @@ Must be a list of measurable achievements that indicate the work in the issue is
 4. Don't just hope for the code to work, Check it yourself!
 5. Be strict about temporary code
 6. Visualize the bigger picture
+
+
+## ERD 
+
+![ERD](https://user-images.githubusercontent.com/89202805/204143473-6143d889-5507-4167-a61e-b4edc16210ec.png)
+
+## DFD
+
+![ERD](https://user-images.githubusercontent.com/89202805/204143485-db02645b-99bd-434c-9e67-001f95f1e589.png)
